@@ -131,7 +131,7 @@ nav li a:hover {
   width: 100%;
   height: auto;
   text-align: center;
-  background: url(deer.jpg);
+  background: url(/deer.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
